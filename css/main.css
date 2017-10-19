@@ -1,2 +1,12 @@
 /* Import Google Font */
 @import url('https://fonts.googleapis.com/css?family=Days+One|Great+Vibes');
+
+/* .big text */
+.big{
+  font-family: 'Days One', sans-serif;
+}
+
+/* .small text */
+.small{
+  font-family: 'Great Vibes', cursive;
+}
