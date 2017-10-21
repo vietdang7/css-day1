@@ -2,6 +2,7 @@
 The project is created mainly for CSS training purpose. This is day 1.
 
 ## Result
+![Result Day1](https://github.com/vietdang7/css-day1/blob/master/img/day1_result.png "Result Day 1")
 
 ## Code Example
 Here are some lines of example code:
