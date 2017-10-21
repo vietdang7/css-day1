@@ -2,7 +2,8 @@
 The project is created mainly for CSS learning purpose ([Original project](https://100dayscss.com/)). This is day 1.
 
 ## Result
-Happy Birthday Finland! 
+* `Happy Birthday Finland!`
+
 ![Result Day1](https://github.com/vietdang7/css-day1/blob/master/img/day1_result.png "Result Day 1")
 
 ## Code Example
