@@ -1,7 +1,8 @@
 # CSS Day 1 - 100 Days CSS Project
-The project is created mainly for CSS training purpose. This is day 1.
+The project is created mainly for CSS learning purpose ([Original project](https://100dayscss.com/)). This is day 1.
 
 ## Result
+Happy Birthday Finland! 
 ![Result Day1](https://github.com/vietdang7/css-day1/blob/master/img/day1_result.png "Result Day 1")
 
 ## Code Example
@@ -84,4 +85,5 @@ Simply to improve my CSS skills. In my opinion, the best learning way is practic
 If you want to make contribution for this project, feel free to `fork` this project and make `pull request`
 
 ## License
+- Materials' copyright from [100 Days CSS](https://100dayscss.com/) belong to [MATTHIAS MARTIN](http://matzemachtdesign.de/)
 - This project is licensed under the MIT license
